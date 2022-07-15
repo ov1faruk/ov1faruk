@@ -7,6 +7,11 @@
 - 📫 How to reach me **golamfarukovi@gmail.com** 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ov1faruk&show_icons=true&locale=en&layout=compact" alt="ov1faruk" /></p>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
