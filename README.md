@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/golam-faruk-ovi-0456b21a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="golam-faruk-ovi-0456b21a8" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/golam-faruk-ovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="golam-faruk-ovi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19559139/golam-faruk-ovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="golam-faruk-ovi" height="30" width="40" /></a>
 <a href="https://fb.com/ovi.faruk.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ovi.faruk.3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/golamfarukovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="golamfarukovi" height="30" width="40" /></a>
 </p>
