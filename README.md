@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golam Faruk Ovi</h1>
-<h3 align="center">A explorer/learner/developer studying CSE in American International University - Bangladesh.</h3>
+<h3 align="center">An explorer/learner/developer studying CSE in American International University - Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ov1faruk&label=Profile%20views&color=0e75b6&style=flat" alt="ov1faruk" /> </p>
 
