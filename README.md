@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ovi</h1>
 <h3 align="center">An explorer/learning developer studying CSE in American International University - Bangladesh.</h3>
-<a href="https://emoji.gg/emoji/6186-developer-bot"><img src="https://c.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" width="128px" height="128px" alt="developer_bot"></a> <br>
+<a href="https://emoji.gg/emoji/6186-developer-bot"><img src="https://github.com/ov1faruk/ov1faruk/blob/main/I'm%20Ovi%20(1).gif" width="260px" height="260px" alt="developer_bot"></a> <br>
 🌱 I’m currently learning <b>Python</b> & <b>C#</b>
 
 - **I am a** ***Huge Sherlock fan <a href="https://emoji.gg/emoji/1410-sherlockyes"><img src="https://cdn3.emoji.gg/emojis/1410-sherlockyes.png" width="16px" height="16px" alt="Sherlockyes"></a>***
