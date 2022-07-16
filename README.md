@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Golam Faruk Ovi</h1>
-<h3 align="center">An explorer/learner/developer studying CSE in American International University - Bangladesh.</h3>
+<h1 align="center">Hi 👋, I'm Ovi</h1>
+<h3 align="center">An explorer/learning developer studying CSE in American International University - Bangladesh.</h3>
+<a href="https://emoji.gg/emoji/6186-developer-bot"><img src="https://c.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" width="128px" height="128px" alt="developer_bot"></a> <br>
 🌱 I’m currently learning <b>Python</b> & <b>C#</b>
+
+- **I am a** ***Huge Sherlock fan <a href="https://emoji.gg/emoji/1410-sherlockyes"><img src="https://cdn3.emoji.gg/emojis/1410-sherlockyes.png" width="16px" height="16px" alt="Sherlockyes"></a>***
+-  **I'm hoping to be a Data Scientist <a href="https://emoji.gg/emoji/6186-developer-bot"><img src="https://cdn3.emoji.gg/emojis/6186-developer-bot.gif" width="16px" height="16px" alt="developer_bot"></a>**
+-  **I like learning new things**
+-  **I love music <3 !**
 <br>
 <br>
 
